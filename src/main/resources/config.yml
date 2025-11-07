@@ -1,0 +1,19 @@
+# Emerald Armor plugin configuration
+
+recipes:
+  enable: true
+
+effects:
+  enabled: true
+  potion: NIGHT_VISION
+  amplifier: 0
+  duration-ticks: 220   # refreshed continuously while wearing
+
+animation:
+  enabled: true
+  particle-duration-ticks: 40
+  particle-interval-ticks: 2
+  particle-type: VILLAGER_HAPPY
+
+messages:
+  equipped: "&aYou equipped Emerald Armor!"
