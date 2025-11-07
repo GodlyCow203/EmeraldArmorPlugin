@@ -1,0 +1,4 @@
+name: EmeraldArmorPlugin
+version: '${project.version}'
+main: net.godlycow.org.emeraldarmorplugin.EmeraldArmorPlugin
+api-version: '1.21'
